@@ -27,7 +27,6 @@
 		4F563D2018B01548009B8EA3 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F563D1F18B01548009B8EA3 /* AddressBook.framework */; };
 		4F563D2318B06C96009B8EA3 /* SentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F563D2218B06C96009B8EA3 /* SentViewController.m */; };
 		4F563D2618B07B12009B8EA3 /* TimeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F563D2518B07B12009B8EA3 /* TimeViewController.m */; };
-		4F93D90B18B715610072AB52 /* Test in Resources */ = {isa = PBXBuildFile; fileRef = 4F93D90A18B715610072AB52 /* Test */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -709,7 +708,6 @@
 		4F563F9518B0C8F8009B8EA3 /* TransitionKit.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = TransitionKit.podspec; sourceTree = "<group>"; };
 		4F563F9618B0C8F8009B8EA3 /* TransitionKit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = TransitionKit.xcodeproj; sourceTree = "<group>"; };
 		4F563F9918B0C8F8009B8EA3 /* VERSION */ = {isa = PBXFileReference; lastKnownFileType = text; path = VERSION; sourceTree = "<group>"; };
-		4F93D90A18B715610072AB52 /* Test */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Test; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -741,7 +739,6 @@
 		4F563CD418AFF5E2009B8EA3 = {
 			isa = PBXGroup;
 			children = (
-				4F93D90A18B715610072AB52 /* Test */,
 				4F563D1518AFFA79009B8EA3 /* Grey.png */,
 				4F563CE618AFF5E3009B8EA3 /* SmartSend */,
 				4F563D0518AFF5E3009B8EA3 /* SmartSendTests */,
@@ -2232,7 +2229,6 @@
 				4F563CEB18AFF5E3009B8EA3 /* InfoPlist.strings in Resources */,
 				4F563D1618AFFA79009B8EA3 /* Grey.png in Resources */,
 				4F563CF418AFF5E3009B8EA3 /* Main.storyboard in Resources */,
-				4F93D90B18B715610072AB52 /* Test in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
