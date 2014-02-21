@@ -9,6 +9,9 @@
 #import "AppDelegate.h"
 
 @implementation AppDelegate
+//@synthesize textBox;
+//@synthesize app;
+@synthesize message;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
